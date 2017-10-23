@@ -19,7 +19,7 @@
 
 ![Image of Giraffa](/images/Giraffa1.jpg)
 
-שם בעיברית | שם באנגלית
+שם באנגלית | שם בעיברית
 -------|--------
 Giraffa reticulata | ג'ירף מרושת
 Giraffa tippelskirchi | ג'ירף מסאי
