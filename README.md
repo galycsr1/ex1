@@ -9,7 +9,7 @@
 5. His color is yellow with large dark spots and is used when it requires camouflage from its enemies.
 6. The sight of the giraffe is sharp, and its high height causes many animals to stay close to the giraffes, since the giraffe can see carnivores from afar.
 7. The giraffe can reach a speed of 65 mph when pursued, however its running capacity is low and it can not withstand a prolonged pursuit.
-8. Giraffe's heart reach a weight of ten kilograms and a length of sixty centimeters in order to ensure proper blood flow of the brain during the folds and standing.
+8. The giraffe's heart reaches a weight of ten kilograms and is sixty centimeters long and has to provide twice as much blood pressure as the average average mammal's blood pressure to keep blood flow to the brain during the bending and standing.
    
 ## Mostly common
 - Kenya 
