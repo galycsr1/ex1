@@ -1,25 +1,26 @@
-# אודות בעל החיים ג'ירף 
+# About the animal Giraffe
 
-[קישור למידע בויקיפדיה](https://he.wikipedia.org/wiki/%D7%92%27%D7%99%D7%A8%D7%A3)
-## חשוב לדעת
-1. .ג'ירף או בשמו העממי ג'ירפה, הוא סוג פרסתן מעלה גירה ממשפחת הג'ירפיים
-2. .לג'ירף רגליים וצוואר ארוכים מאוד וגובהו יכול להגיע לכ־6 מטרים מעל פני הקרקע
-3. .משקל של זכר בוגר יכול להגיע לכ-1500 ק"ג, ואילו הנקבה בדר"כ שוקלת קצת פחות, והיא יותר נמוכה מהזכר.
-4. .נקבות הג'ירף והזכרים הצעירים חיים בלהקות בעוד זכרי הג'ירף הבוגרים חיים לבד
-5. .צבעו חום צהוב עם כתמים כהים וגדולים ומשמשים אותו כאשר הוא צריך הסוואה מאויביו
-6. .ראיית הג'ירף חדה, וגובהו הרב גורמות לכך שחיות רבות נוהגות לשהות בסמוך לג'ירפים, שכן הג'ירף יכול להבחין בטורפים מרחוק
-7. .הג'ירף יכול להגיע למהירות של 65 קמ"ש כאשר רודפים אחריו. עם זאת, כושר ריצתו נמוך, והוא אינו יכול לעמוד במרדף ממושך
-8.  לבם של הג'ירפים מגיע למשקל של עשרה קילוגרמים ולאורך של שישים סנטימטרים, וזאת על מנת לדאוג לזרימת דם נכונה של המוח בעת התקופפות ועמידה
-## נפוץ בעיקר ב
-- קניה 
-- סומליה
-- אתיופיה
-- טנזניה
-- צפון ומרכז אפריקה
+[Link to information on Wikipedia](https://he.wikipedia.org/wiki/%D7%92%27%D7%99%D7%A8%D7%A3)
+## Important Information
+1. A giraffe is a type of animal that has a split hooves and chews it cud.
+2. The giraffe has very long legs and neck and can reach six meters above ground.
+3. The weight of an adult male can reach about 1500 kg, while the female usually weighs a little less, and is lower than the male.
+4. The giraffes and the young males live in packs, while the adult giraffe males live alone.
+5. His color is yellow with large dark spots and is used when it requires camouflage from its enemies.
+6. The sight of the giraffe is sharp, and its high height causes many animals to stay close to the giraffes, since the giraffe can see carnivores from afar.
+7. The giraffe can reach a speed of 65 mph when pursued, however its running capacity is low and it can not withstand a prolonged pursuit.
+8. Giraffes reach a weight of ten kilograms and a length of sixty centimeters in order to ensure proper blood flow of the brain during the folds and standing.
+   
+## Mostly common
+- Kenya 
+- Somalia
+- Ethiopia
+- Tanzania
+- North and Central Africa
 
 ![Image of Giraffa](/images/Giraffa1.jpg)
 
-שם באנגלית | שם בעיברית
+Name in English | Name in Hebrew
 -------|--------
 Giraffa reticulata | ג'ירף מרושת
 Giraffa tippelskirchi | ג'ירף מסאי
